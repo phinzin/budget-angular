@@ -12,7 +12,7 @@ export const config: Config = {
 };
 
 export const auth0 = {
-  url: "https://dev-5qi53ez9.eu.auth0.com/v2",
-  clientId: "3GGnK7fa8QXii04i1EBsmVKNvgChLvr4",
+  url: "dev-ejhtvfjrge0apx07.us.auth0.com/v2",
+  clientId: "8PEYpE6RWymP9phS2KJTw7T1ydyZ0ssI",
   returnUrl: "http://localhost:8080",
 };
